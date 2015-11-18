@@ -10,7 +10,6 @@ public class Test
 		List<String> result = new ArrayList<String>();
 		
 		String numbers = "XXX-50;-01;XXX-100;-01;-02;-03;-04;-05;-07;-08;-10;-12;-15;-18;-19;XXX-150;-01;XXX-200;-01;-02;XXX-500;-01;$end$"; //Список обозначений объектов одинаковых типов и т.д.
-		//String numbers = "РКД5А.200.400-1600.01;-01;$end$";
 		Integer beforeNumber = null;
 		int countNumber = 0;
 		String startNumber = "<startNumber = 'null'>";
